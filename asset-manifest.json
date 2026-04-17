@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.26206de3.css",
-    "main.js": "/static/js/main.b2d13855.js",
-    "static/js/453.10c44cc2.chunk.js": "/static/js/453.10c44cc2.chunk.js",
-    "static/media/speaki-cry.png": "/static/media/speaki-cry.e40a8972bf22dec643d6.png",
-    "static/media/speaki-happy.png": "/static/media/speaki-happy.ada1dbe89477c3062ae7.png",
-    "static/media/speaki-cry.mp3": "/static/media/speaki-cry.a3894527bd8b35782670.mp3",
-    "index.html": "/index.html",
-    "main.26206de3.css.map": "/static/css/main.26206de3.css.map",
-    "main.b2d13855.js.map": "/static/js/main.b2d13855.js.map",
-    "453.10c44cc2.chunk.js.map": "/static/js/453.10c44cc2.chunk.js.map"
+    "main.css": "/speakisite/static/css/main.26206de3.css",
+    "main.js": "/speakisite/static/js/main.c78498b6.js",
+    "static/js/453.10c44cc2.chunk.js": "/speakisite/static/js/453.10c44cc2.chunk.js",
+    "static/media/speaki-cry.png": "/speakisite/static/media/speaki-cry.e40a8972bf22dec643d6.png",
+    "static/media/speaki-happy.png": "/speakisite/static/media/speaki-happy.ada1dbe89477c3062ae7.png",
+    "static/media/speaki-cry.mp3": "/speakisite/static/media/speaki-cry.a3894527bd8b35782670.mp3",
+    "index.html": "/speakisite/index.html",
+    "main.26206de3.css.map": "/speakisite/static/css/main.26206de3.css.map",
+    "main.c78498b6.js.map": "/speakisite/static/js/main.c78498b6.js.map",
+    "453.10c44cc2.chunk.js.map": "/speakisite/static/js/453.10c44cc2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.26206de3.css",
-    "static/js/main.b2d13855.js"
+    "static/js/main.c78498b6.js"
   ]
 }
